@@ -1,0 +1,8 @@
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\steve\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
